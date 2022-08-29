@@ -16,6 +16,7 @@
 		833F414228BBCA7900FEEDEA /* PreworkTipCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833F414128BBCA7900FEEDEA /* PreworkTipCalculatorTests.swift */; };
 		833F414C28BBCA7900FEEDEA /* PreworkTipCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833F414B28BBCA7900FEEDEA /* PreworkTipCalculatorUITests.swift */; };
 		833F414E28BBCA7900FEEDEA /* PreworkTipCalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833F414D28BBCA7900FEEDEA /* PreworkTipCalculatorUITestsLaunchTests.swift */; };
+		83DEE35628BC3AE6004D5955 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83DEE35528BC3AE6004D5955 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		833F414728BBCA7900FEEDEA /* PreworkTipCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreworkTipCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		833F414B28BBCA7900FEEDEA /* PreworkTipCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkTipCalculatorUITests.swift; sourceTree = "<group>"; };
 		833F414D28BBCA7900FEEDEA /* PreworkTipCalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkTipCalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		83DEE35528BC3AE6004D5955 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				833F412C28BBCA7800FEEDEA /* SceneDelegate.swift */,
 				833F412E28BBCA7800FEEDEA /* ViewController.swift */,
 				833F413028BBCA7800FEEDEA /* Main.storyboard */,
+				83DEE35528BC3AE6004D5955 /* SettingsViewController.swift */,
 				833F413328BBCA7900FEEDEA /* Assets.xcassets */,
 				833F413528BBCA7900FEEDEA /* LaunchScreen.storyboard */,
 				833F413828BBCA7900FEEDEA /* Info.plist */,
@@ -261,6 +264,7 @@
 				833F412F28BBCA7800FEEDEA /* ViewController.swift in Sources */,
 				833F412B28BBCA7800FEEDEA /* AppDelegate.swift in Sources */,
 				833F412D28BBCA7800FEEDEA /* SceneDelegate.swift in Sources */,
+				83DEE35628BC3AE6004D5955 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
