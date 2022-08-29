@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        self.title = "Tip Calculator"
+        self.title = "TipWizard"
     }
     @IBAction func calculateTip(_ sender: Any) {
         //Get bill amount from text field input
